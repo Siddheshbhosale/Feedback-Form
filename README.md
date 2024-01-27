@@ -1,8 +1,8 @@
 # Feedback-Form
-Feedback form which stores data in MySQL database,
+Developed a streamlined feedback form using Material-UI in the frontend, seamlessly storing user data in a MySQL database on the backend. This ensures an enhanced user experience and efficient data management.
 
 **Frontend using** - 
-React.js, MUi, Javascript.
+React.js, Material-Ui, Javascript.
 
 **Backend using** - 
 Node.js, express, Javascript.
